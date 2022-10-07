@@ -1,0 +1,7 @@
+Bigdata\hp\App.class
+Bigdata\hp\UniqueVisits$UniqueVisitsMapper.class
+Bigdata\hp\UniqueVisits.class
+Bigdata\hp\UniqueVisits$IntSumReducer.class
+Bigdata\hp\TotalVisits$IntSumReducer.class
+Bigdata\hp\TotalVisits$TotalVisitsMapper.class
+Bigdata\hp\TotalVisits.class
