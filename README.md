@@ -27,11 +27,16 @@ a. Use charts to appropriately represent the results.
 
 part 2 
 
-• Clean up the HTTP log file using Spark
-• Cluster the users based on k-means clustering
+1. Clean up the HTTP log file using Spark
+
+2. Cluster the users based on k-means clustering
+
    ◦ Extract Client ID, Team played2 (on that day)
+   
    ◦ Use the extracted fields to determine common user groups.
+   
    ◦ Visualize the results on, Client ID, Team played
+ 
 
 
 Resources
